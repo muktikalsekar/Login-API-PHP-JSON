@@ -1,0 +1,24 @@
+.loginbox{
+	width: 350px;
+	height: 270px;
+	background: #000;
+	color: #fff;
+	position: absolute;
+	right: 40%;
+}
+.loginbox input[type="text"],input[type="password"]
+{
+/*display: inline-block;*/
+	font_size=16px;
+	background: transparent;
+	border-radius:20px;
+	color: white;
+}
+.loginbox input[type="submit"]
+{
+	display:inline-block;
+	background: transparent;
+	font-size: 18px;
+	color: white;
+	border-radius: 20px;
+}
